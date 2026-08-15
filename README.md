@@ -10,7 +10,7 @@ O projeto foi desenvolvido durante meus estudos de desenvolvimento Front-End, co
 
 ## 🚀 Demonstração
 
-🔗 [Acessar o projeto](https://seu-link-da-vercel.vercel.app/)
+🔗 [Acessar o projeto](https://sorteio-de-numeros-one.vercel.app/?utm_source=chatgpt.com)
 
 ## ⚙️ Funcionalidades
 
